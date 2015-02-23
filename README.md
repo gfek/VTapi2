@@ -2,13 +2,8 @@
 
 ### Help
 
-usage: Public API v2 VirusTotal [-h] [--domain DOMAIN] [--ip IP] [--hash HASH]
-
-                                [--url URL] [--scanurl SCANURL]
+usage: Public API v2 VirusTotal [-h] [--domain DOMAIN] [--ip IP] [--hash HASH] [--url URL] [--scanurl SCANURL]        [--uploadfile UPLOADFILE] [--version]
                                 
-                                [--uploadfile UPLOADFILE] [--version]
-                                
-
 VirusTotal Search (Public API v2).
 
 optional arguments:
