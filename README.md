@@ -1,5 +1,12 @@
 # Virus Total Public API v2
 
+Pyhton script using the official VT API documentation page. https://www.virustotal.com/en/documentation/public-api/
+
+### Dependencies
+
+* requests
+* colorama
+
 ### Help
 
 usage: Public API v2 VirusTotal [-h] [--domain DOMAIN] [--ip IP] [--hash HASH] [--url URL] [--scanurl SCANURL]        [--uploadfile UPLOADFILE] [--version]
